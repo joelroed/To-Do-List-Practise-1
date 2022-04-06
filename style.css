@@ -30,3 +30,17 @@
     padding: 8px;
 }
 
+.output__text--wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.output__btn {
+    background-color: #242424;
+    color: #fff;
+    border-radius: 25%;
+    font-size: 16;
+    padding: 6px;
+}
+
